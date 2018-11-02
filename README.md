@@ -71,4 +71,3 @@ $ git commit -m 'first commit'
 $ git remote add origin git@github.com:turubee/hugo-netlify-sample.git
 $ git push origin master
 ```
-
