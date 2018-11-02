@@ -20,7 +20,7 @@ $ hugo new site hugo-netlify
 ## Download Theme
 https://themes.gohugo.io/  
 ```
-$ git submodule add https://github.com/crakjie/hugo-base-theme.git themes/hugo-base-theme
+$ git subtree add --prefix themes/hugo-base-theme --squash https://github.com/crakjie/hugo-base-theme.git master
 ```
 
 ## New Post
